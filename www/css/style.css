@@ -1,4 +1,55 @@
-/* Empty. Add your own CSS if you like */
-body{
-    color:red;
+ion-content{
+    background-color:lightblue  ;    
 }
+
+.headclass{
+    font-size: 250%;
+    font-weight: bold;
+    align-content: center;
+}
+
+#niagarafalls1{
+    width: 90%;
+    height:80%;
+    margin-top:15%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+#aboutniagarafalls{
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+    color:darkviolet;
+}
+#aboutniagarafalls1{
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+    color:darkviolet;
+    margin-top: 5%;
+}
+#niagarafalls2{
+    width: 90%;
+    margin:5%;
+    
+}
+#contentniagarafalls{
+    text-align: justify;
+    font-size: 110%;
+    margin: 5%;
+    font-style: italic;
+    color:darkslategray;
+    
+}
+
+.anchorindex{
+    margin-left: 18%;
+    margin-bottom: 5%;
+ }
+ 
+ .anchorindex1{
+    margin-left: 40%;
+    margin-bottom: 5%;
+ }
